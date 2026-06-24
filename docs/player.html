@@ -20,8 +20,8 @@
 </div>
 <script>
   const params = new URLSearchParams(location.search);
-  const src = params.get('src');
-  const label = params.get('label') || 'Sample';
+  const src = decodeURIComponent(params.get('src') || '');
+  const label = decodeURIComponent(params.get('label') || 'Sample');
   if (src) document.querySelector('audio').src = src;
   document.getElementById('lbl').textContent = label;
 </script>
