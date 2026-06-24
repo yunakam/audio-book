@@ -1,0 +1,29 @@
+<!-- docs/player.html -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  body { margin: 0; background: transparent; font-family: sans-serif; }
+  .player { display: flex; align-items: center; gap: 8px; padding: 6px 10px;
+    border: 1px solid #d0d7de; border-radius: 8px; background: #f6f8fa; }
+  audio { height: 32px; width: 100%; }
+  label { font-size: 12px; color: #57606a; white-space: nowrap; }
+</style>
+</head>
+<body>
+<div class="player">
+  <label id="lbl">Sample 1</label>
+  <audio controls src="">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+<script>
+  const params = new URLSearchParams(location.search);
+  const src = params.get('src');
+  const label = params.get('label') || 'Sample';
+  if (src) document.querySelector('audio').src = src;
+  document.getElementById('lbl').textContent = label;
+</script>
+</body>
+</html>
