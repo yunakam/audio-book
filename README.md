@@ -4,8 +4,10 @@ A Kaggle notebook pipeline that converts multi-character scripts into natural-so
 
 ## Demo
 
-| Sample1 (2 men followed by narrator) | [![Play](https://img.shields.io/badge/▶-Play-01696f?style=flat-square)](https://yunakam.github.io/audio-book/player.html?src=https://raw.githubusercontent.com/yunakam/audio-book/main/samples/sample1.mp3&label=Sample+1) |
-| Sample2 (man & woman, girl & father) | [![Play](https://img.shields.io/badge/▶-Play-01696f?style=flat-square)](https://yunakam.github.io/audio-book/player.html?src=https://raw.githubusercontent.com/yunakam/audio-book/main/samples/sample2.mp3&label=Sample+2) |
+| # | 内容 | プレイヤー |
+|---|------|-----------|
+| 1 | Sample1 (2 men followed by narrator) | [![Play](https://img.shields.io/badge/▶-Play-01696f?style=flat-square)](https://yunakam.github.io/audio-book/player.html?src=https://raw.githubusercontent.com/yunakam/audio-book/main/samples/sample1.mp3&label=Sample+1) |
+| 2 | Sample2 (man & woman, girl & father) | [![Play](https://img.shields.io/badge/▶-Play-01696f?style=flat-square)](https://yunakam.github.io/audio-book/player.html?src=https://raw.githubusercontent.com/yunakam/audio-book/main/samples/sample2.mp3&label=Sample+2) |
 
 ## Features
 
