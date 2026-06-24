@@ -4,8 +4,8 @@ A Kaggle notebook pipeline that converts multi-character scripts into natural-so
 
 ## Demo
 
-| Sample1 (2 men followed by narrator) | <video src="https://github.com/yunakam/audio-book/blob/main/sample1.mp3" controls width="300" height="40"></video> |
-| Sample2 (man & woman, girl & father) | <video src="https://github.com/yunakam/audio-book/blob/main/sample2.mp3" controls width="300" height="40"></video> |
+| Sample1 (2 men followed by narrator) | [▶ Play](https://yunakam.github.io/audio-book/player.html?src=../samples/sample1.mp3&label=Sample+1) |
+| Sample2 (man & woman, girl & father) | [▶ Play](https://yunakam.github.io/audio-book/player.html?src=../samples/sample2.mp3&label=Sample+2) |
 
 ## Features
 
