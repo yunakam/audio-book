@@ -6,8 +6,8 @@ A Kaggle notebook pipeline that converts multi-character scripts into natural-so
 
 | Section | Audio Sample |
 |---------|-------------|
-| Sample (david × andrew) | [▶ Listen](https://) |
-| Sample (epictetus × menas) | [▶ Listen](https://) |
+| Sample (2 men followed by narrator) | [▶ Listen](https://github.com/yunakam/audio-book/blob/main/sample1.mp3) |
+| Sample (man & woman, girl & father) | [▶ Listen](https://github.com/yunakam/audio-book/blob/main/sample2.mp3) |
 
 ## Features
 
